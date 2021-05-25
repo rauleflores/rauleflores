@@ -31,8 +31,6 @@ Technologies used:
   - Swagger
   - dotenv
 
----
-
 #### I am currently...
 ---
 - 🔭 Working on my personal website which will also serve as a portfolio.

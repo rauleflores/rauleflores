@@ -12,6 +12,8 @@ Languages worked with:
   - CSS
   - JavaScript
   - Python
+  - C
+  - Assembly Code/NASM
 
 Technologies used:
   - Node.js 
